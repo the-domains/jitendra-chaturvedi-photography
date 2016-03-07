@@ -21,8 +21,8 @@ color:
     - '#ebebeb'
     - '#919191'
     - '#646464'
-  brandStrength: 0.1875
-  lightness: 0.125
-  saturation: 0.9375
-  rhythmicContrast: 0.75
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
