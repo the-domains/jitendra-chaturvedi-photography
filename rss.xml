@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Jitendra Chaturvedi Photography]]></title>
         <description><![CDATA[Jitendra Chaturvedi Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jitendra-chaturvedi-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 06 Mar 2016 11:18:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 14 May 2016 14:20:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jitendra-chaturvedi-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The gypsy]]></title>
+            <description><![CDATA[<article><h1>The gypsy</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f17d55db804951e22c20c6e4403e12842ea03869.png"></article>]]></description>
+            <link>urn:uuid:f94b5cfd-9790-4961-8c39-cf4ff9a8c4a8</link>
+            <guid isPermaLink="false">b0d73132-9dab-4f57-b6db-e960d2c4718b</guid>
+            <pubDate>Sat, 14 May 2016 14:20:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92f417fd-eedd-432d-9214-5def97f3e141.jpg">]]></description>
-            <link>undefinedb63ee246-a5f6-49b2-a026-36ee1406d6f7/index.html</link>
+            <link>https://thegrid.ai/jitendra-chaturvedi-photography/b63ee246-a5f6-49b2-a026-36ee1406d6f7/index.html</link>
             <guid isPermaLink="false">b63ee246-a5f6-49b2-a026-36ee1406d6f7</guid>
             <pubDate>Sun, 06 Mar 2016 11:14:06 GMT</pubDate>
         </item>
